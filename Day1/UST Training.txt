@@ -1,0 +1,16 @@
+\ cancels fuctionality
+print('marian\'s"sessions 3 & 4"')
+      
+marian's"sessions 3 & 4"
+
+integers are stored in single memory location irrespective of digits
+	like for 1234 the entire 1234 is stored in 1 memory location
+strings can be segregated letterwise ---> string variables behave like array.
+
+why strings in python is different?
+	becoz it behaveslike arrays
+
+NULL in python is None
+
+TUPLE is not mutable duplication is possible uses ()
+SET doesnt follow sequence no duplication uses {}
