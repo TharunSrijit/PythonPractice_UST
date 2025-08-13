@@ -9,6 +9,7 @@ def funct(ls, n):
 
     return max_index
 
+
 def main():
     ls = [1, 2, 3, 4, 5]
     n = len(ls)
